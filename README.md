@@ -27,7 +27,7 @@ Exploratory data analysis of the classic Titanic passenger dataset — cleaning,
 ## Academic Context
 
 Academic project by **Ludovic Delot Bravo**, undergraduate student in the
-**Licenciatura en Innovación y Tecnología (LIT)** at
+**Licenciatura en Inteligencia de Negocios (LIN)** at
 **Tecnológico de Monterrey (Tec de Monterrey)**.
 
 - **Course:** *Programación para Negocios* (Programming for Business), Semester 1 (S1)
@@ -182,7 +182,7 @@ in the working directory.
 
 ## 🎓 Credits & License
 
-- **Author:** Ludovic Delot Bravo — Licenciatura en Innovación y Tecnología (LIT), Tecnológico de Monterrey
+- **Author:** Ludovic Delot Bravo — Licenciatura en Inteligencia de Negocios (LIN), Tecnológico de Monterrey
 - **Course:** Programación para Negocios (S1), *Actividad 7*
 - **Dataset:** [Titanic - Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/data) (Kaggle, public domain teaching dataset)
 - **Code:** Provided for educational and portfolio purposes. Feel free to reference or adapt for learning; please attribute if reused.
